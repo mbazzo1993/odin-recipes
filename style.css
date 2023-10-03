@@ -6,7 +6,8 @@ img {
     width: 100%;
     max-width: 350px;
     height: auto;
-    border-radius: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px lightgrey;
 }
 
 h1, h2 {
